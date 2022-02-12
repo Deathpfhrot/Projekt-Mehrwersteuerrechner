@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.contain {
+  margin: 10rem auto;
+  width: 35%;
+  background-color: white;
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+div {
+  background-color: #f4ecec;
+  border-radius: 5px;
+}
+
+#sieben {
+  margin-left: 1rem;
+}
+
+.mwstRange {
+  margin: 2rem 0 1rem 0;
+}
+
+input[type=submit] {
+  background-color: #4747e2;
+  color: white;
+  border-radius: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin: 1rem;
+}
+
+#betrag {
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.submitDiv {
+  background-color: white;
+}
+
+input[type=radio] {
+  margin-left: 2%;
+}
+
+#betrag {
+  margin: 10px;
+}
+
+h4 {
+  color: #2573d2;
+  background-color: white;
+}
+
+h4, h5, p, input, label {
+  padding: 1%;
+}/*# sourceMappingURL=main.css.map */
